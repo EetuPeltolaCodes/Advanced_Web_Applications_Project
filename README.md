@@ -9,7 +9,7 @@ cd Advanced_Web_Applications_Project
 npm run dev
 ```
 
-**Notice that you need to install all the dependencies in the server, client and project folders package.json file.**
+**Notice that you need to run: "npm install" in the server, client and project folders.**
 
 Backend uses port 5000 and frontend uses port 3000 also mongoDB is connected to "mongodb://localhost:27017/project".
 
